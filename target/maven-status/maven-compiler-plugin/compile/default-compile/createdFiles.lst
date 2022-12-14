@@ -1,0 +1,9 @@
+com\toDoList\toDoList\service\mapper\ToDoListMapper.class
+com\toDoList\toDoList\repository\ToDoListRepository.class
+com\toDoList\toDoList\web\controller\ToDoListController.class
+com\toDoList\toDoList\domain\ToDoList.class
+com\toDoList\config\OpenApiConfig.class
+com\toDoList\toDoList\service\ToDoListService.class
+com\toDoList\toDoList\service\dto\ToDoListDto.class
+com\toDoList\ToDoListApplication.class
+com\toDoList\toDoList\domain\ToDoList$ToDoListBuilder.class
